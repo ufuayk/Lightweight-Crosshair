@@ -4,6 +4,25 @@ Oh, that's great! Finally a lightweight on-screen crosshair software. Download i
 
 ![image](https://raw.githubusercontent.com/CoderYello/Lightweight-Crosshair/main/screenshots/screenshot.png)
 
+## 👨🏻‍💻 Developer's Note
+
+### → Disclaimer:
+
+- The user is responsible for all negative situations that may occur while using the program.
+
+- The program can be shown as a "ban reason" in certain games. In these cases, the author of the program is not responsible. Usage is entirely at the user's own risk.
+
+### → Compatibility and Performance:
+
+- The program has been tested on a 1920x1080 monitor and Windows 11 operating system.
+- There is no guarantee that the program will work stably on other systems and monitor resolutions.
+
+### → Intended Use:
+
+- The program is intended to assist the user, but all consequences of its use are the responsibility of the user.
+- We do not recommend using the program in competitive games.
+
+**All users of the program are deemed to have read this text.** ⚠️
 
 ## 📋 Requirements
 
@@ -48,6 +67,8 @@ Oh, that's great! Finally a lightweight on-screen crosshair software. Download i
 • You are now ready!
 
 • You can access the main configurations from the icon in the system tray.
+
+Enjoy!
 
 ## 👷🏻‍♂️ Author
 
