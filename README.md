@@ -4,6 +4,7 @@ Oh, that's great! Finally a lightweight on-screen crosshair software. Download i
 
 ![image](https://raw.githubusercontent.com/CoderYello/Lightweight-Crosshair/main/screenshots/screenshot.png)
 
+
 ## 📋 Requirements
 
 • PyQt5
@@ -39,6 +40,8 @@ Oh, that's great! Finally a lightweight on-screen crosshair software. Download i
 ```
 
 ## 📈 Usage
+
+• Install the software by following the steps above.
 
 • Run the program.
 
