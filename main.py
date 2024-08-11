@@ -46,7 +46,7 @@ def quit_app(icon, item):
     QApplication.quit()
 
 def open_github(icon, item):
-    webbrowser.open("https://github.com/CoderYello/Lightweight-Crosshair")
+    webbrowser.open("https://github.com/ufuayk/Lightweight-Crosshair")
 
 def change_crosshair(crosshair_widget, image_name):
     image_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Colors", image_name)
