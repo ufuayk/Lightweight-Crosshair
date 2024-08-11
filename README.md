@@ -2,7 +2,7 @@
 
 Oh, that's great! Finally a lightweight on-screen crosshair software. Download it and start using it. Now!
 
-![image](https://raw.githubusercontent.com/CoderYello/Lightweight-Crosshair/main/screenshots/screenshot.png)
+![image](https://raw.githubusercontent.com/ufuayk/Lightweight-Crosshair/main/screenshots/screenshot.png)
 
 ## 👨🏻‍💻 Developer's Note
 
@@ -37,7 +37,7 @@ Oh, that's great! Finally a lightweight on-screen crosshair software. Download i
 • Clone the project;
 
 ```bash
-  git clone https://github.com/CoderYello/Lightweight-Crosshair
+  git clone https://github.com/ufuayk/Lightweight-Crosshair
 ```
 
 • Go to the project directory;
@@ -72,7 +72,7 @@ Enjoy!
 
 ## 👷🏻‍♂️ Author
 
-• [@Yello](https://www.github.com/CoderYello) for design and development.
+• [@ufuayk](https://www.github.com/ufuayk) for design and development.
 
   
 ## 📑 License
